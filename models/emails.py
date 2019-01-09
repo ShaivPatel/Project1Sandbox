@@ -21,6 +21,14 @@ class Email():
     def __str__(self):
         return f"id : {self.id} | date: {self.date} | subject : {self.subject} | sender : {self.sender.email}"
 
+    def toDF(self):
+        df = []
+        for receiver in self.receivers:
+            dic = {"Date": self.date, "ID": self.id, "Sender": self.sender.email, "Receiver": receiver.email,
+             "Subject": self.subject}
+            df.append(dic)
+
+        return df
 class EmailThread():
 
     def __init__(self,first_email):

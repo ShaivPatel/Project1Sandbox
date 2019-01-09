@@ -124,10 +124,11 @@ if __name__ == "__main__":
                 new_email.addReceiver(employees[email_df.iloc[0][email_address]])
             emails[new_email.id] = new_email
 
+    matches = []
     for email in emails:
-        print(emails[email])
+        print(emails[email].toDF())
+        matches.extend(emails[email].toDF())
 
-    for employee in employees:
-        print(employees[employee])
-    for client in clients:
-        print(clients[client])
+    matches_df = pandas.DataFrame(matches)
+
+    matches_df.to_csv("MatchedRecords.csv", index=False)
