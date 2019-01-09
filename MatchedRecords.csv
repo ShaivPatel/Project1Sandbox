@@ -1,0 +1,58 @@
+Date,Domain,Email,ID,Name,Subject,Type
+10/12/2018,apple.com,Billy.Bob.Patel@apple.com,206838.0,Billy Bob Patel,John's Wedding Invite,TO
+11/08/2018,lordtaylor.com,Adam.de.La.Cruz@lordtaylor.com,269782.0,Adam de La Cruz,Weekly Meeting Minutes,TO
+11/04/2018,macys.com,Adam.O'Connor@macys.com,293954.0,Adam O'Connor,Invoices for This Month,TO
+10/02/2018,macys.com,Adam.O'Connor@macys.com,232677.0,Adam O'Connor,P&L Statements,TO
+12/10/2018,ibm.com,Billy.Bob.Smith@ibm.com,228041.0,Billy Bob Smith,Invoices for This Month,TO
+12/10/2018,gmail.com,Adam.de.La.Cruz@gmail.com,228041.0,Adam de La Cruz,Invoices for This Month,TO
+10/11/2018,gmail.com,James.de.La.Cruz@gmail.com,271909.0,James de La Cruz,Invoices for This Month,TO
+10/11/2018,macys.com,Adam.O'Connor@macys.com,271909.0,Adam O'Connor,Invoices for This Month,TO
+11/23/2018,gmail.com,Adam.de.La.Cruz@gmail.com,239015.0,Adam de La Cruz,Vacation Cruises,TO
+11/27/2018,hotmail.com,Stitch.Patel@hotmail.com,214771.0,Stitch Patel,Vacation Cruises,TO
+11/27/2018,ibm.com,Billy.Bob.Smith@ibm.com,214771.0,Billy Bob Smith,Vacation Cruises,TO
+11/27/2018,lordtaylor.com,Adam.de.La.Cruz@lordtaylor.com,214771.0,Adam de La Cruz,Vacation Cruises,TO
+11/04/2018,stoneridge.com,Adam.Patel@stoneridge.com,208199.0,Adam Patel,MGL Training,TO
+11/04/2018,cuny.edu,John.de.La.Cruz@cuny.edu,208199.0,John de La Cruz,MGL Training,TO
+11/20/2018,apple.com,Adam.Smith@apple.com,248775.0,Adam Smith,Junk,TO
+11/05/2018,suny.edu,James.O'Connor@suny.edu,245958.0,James O'Connor,Junk,TO
+12/08/2018,macys.com,Lilo.Patel@macys.com,205777.0,Lilo Patel,P&L Statements,TO
+10/02/2018,macys.com,Lilo.Smith@macys.com,239729.0,Lilo Smith,Junk,TO
+11/25/2018,gmail.com,James.de.La.Cruz@gmail.com,213949.0,James de La Cruz,Invoices for This Month,TO
+12/12/2018,apple.com,Adam.Smith@apple.com,215553.0,Adam Smith,John's Wedding Invite,TO
+12/12/2018,suny.edu,James.O'Connor@suny.edu,215553.0,James O'Connor,John's Wedding Invite,TO
+10/23/2018,macys.com,Lilo.Smith@macys.com,254812.0,Lilo Smith,Balance Sheets,TO
+10/23/2018,lordtaylor.com,Adam.de.La.Cruz@lordtaylor.com,254812.0,Adam de La Cruz,Balance Sheets,TO
+12/27/2018,gmail.com,James.de.La.Cruz@gmail.com,209059.0,James de La Cruz,Balance Sheets,TO
+11/15/2018,stoneridge.com,James.Patel@stoneridge.com,246786.0,James Patel,Weekly Meeting Minutes,TO
+11/15/2018,cuny.edu,John.de.La.Cruz@cuny.edu,246786.0,John de La Cruz,Weekly Meeting Minutes,TO
+10/14/2018,macquarie.com,James.Smith@macquarie.com,206436.0,James Smith,MGL Training,TO
+12/05/2018,hotmail.com,Stitch.Patel@hotmail.com,250326.0,Stitch Patel,Weekly Meeting Minutes,TO
+11/05/2018,gmail.com,Adam.de.La.Cruz@gmail.com,280668.0,Adam de La Cruz,Weekly Meeting Minutes,TO
+10/17/2018,macys.com,Adam.O'Connor@macys.com,235540.0,Adam O'Connor,Balance Sheets,TO
+11/12/2018,apple.com,Billy.Bob.de.La.Cruz@apple.com,285651.0,Billy Bob de La Cruz,John's Wedding Invite,TO
+11/05/2018,hotmail.com,Stitch.Patel@hotmail.com,234034.0,Stitch Patel,P&L Statements,TO
+11/28/2018,macys.com,Lilo.Patel@macys.com,272273.0,Lilo Patel,P&L Statements,TO
+11/04/2018,lordtaylor.com,John.Smith@lordtaylor.com,206337.0,John Smith,John's Wedding Invite,TO
+11/04/2018,cuny.edu,John.de.La.Cruz@cuny.edu,206337.0,John de La Cruz,John's Wedding Invite,TO
+12/03/2018,macys.com,Lilo.Smith@macys.com,249580.0,Lilo Smith,Vacation Cruises,TO
+12/15/2018,apple.com,Billy.Bob.de.La.Cruz@apple.com,216937.0,Billy Bob de La Cruz,Invoices for This Month,TO
+11/25/2018,suny.edu,James.O'Connor@suny.edu,210766.0,James O'Connor,MGL Training,TO
+10/12/2018,suny.edu,James.O'Connor@suny.edu,267169.0,James O'Connor,MGL Training,TO
+10/11/2018,stoneridge.com,Adam.Patel@stoneridge.com,212441.0,Adam Patel,John's Wedding Invite,TO
+11/27/2018,macys.com,Lilo.Patel@macys.com,272613.0,Lilo Patel,P&L Statements,TO
+12/11/2018,cuny.edu,John.de.La.Cruz@cuny.edu,240044.0,John de La Cruz,John's Wedding Invite,TO
+11/08/2018,cuny.edu,John.de.La.Cruz@cuny.edu,210593.0,John de La Cruz,Balance Sheets,TO
+12/16/2018,gmail.com,James.de.La.Cruz@gmail.com,273106.0,James de La Cruz,Vacation Cruises,TO
+10/25/2018,gmail.com,Anna.O'Connor@gmail.com,216459.0,Anna O'Connor,Invoices for This Month,TO
+12/13/2018,hotmail.com,Stitch.Patel@hotmail.com,290774.0,Stitch Patel,John's Wedding Invite,TO
+11/19/2018,gmail.com,James.de.La.Cruz@gmail.com,243994.0,James de La Cruz,MGL Training,TO
+12/04/2018,lordtaylor.com,Adam.de.La.Cruz@lordtaylor.com,218593.0,Adam de La Cruz,John's Wedding Invite,TO
+12/08/2018,gmail.com,Adam.de.La.Cruz@gmail.com,259756.0,Adam de La Cruz,Vacation Cruises,TO
+12/08/2018,suny.edu,James.O'Connor@suny.edu,259756.0,James O'Connor,Vacation Cruises,TO
+12/08/2018,macquarie.com,Stitch.de.La.Cruz@macquarie.com,259756.0,Stitch de La Cruz,Vacation Cruises,TO
+12/24/2018,gmail.com,Anna.O'Connor@gmail.com,215406.0,Anna O'Connor,P&L Statements,TO
+12/29/2018,lordtaylor.com,Adam.de.La.Cruz@lordtaylor.com,201608.0,Adam de La Cruz,Vacation Cruises,TO
+12/29/2018,hotmail.com,Stitch.Patel@hotmail.com,201608.0,Stitch Patel,Vacation Cruises,TO
+10/11/2018,apple.com,Billy.Bob.Patel@apple.com,276952.0,Billy Bob Patel,John's Wedding Invite,TO
+10/18/2018,apple.com,Billy.Bob.de.La.Cruz@apple.com,291381.0,Billy Bob de La Cruz,P&L Statements,TO
+12/06/2018,lordtaylor.com,John.Smith@lordtaylor.com,294267.0,John Smith,MGL Training,TO
