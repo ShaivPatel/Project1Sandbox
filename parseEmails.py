@@ -2,8 +2,7 @@ import sys
 import pandas
 from models.persons import Client, Employee
 from models.emails import Email
-import numpy as np
-import csv
+import xlsxwriter
 
 ################## Column Names #######################
 company_name = "CompanyName"
