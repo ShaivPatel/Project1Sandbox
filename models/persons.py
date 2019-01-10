@@ -8,6 +8,7 @@ class Contact():
     def __str__(self):
         return f"name : {self.name} | email : {self.email}"
 
+
 class Client(Contact):
     def __init__(self, account_name, domain):
         super().__init__(account_name,domain)

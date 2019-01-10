@@ -2,7 +2,7 @@ import sys
 import pandas
 from models.persons import Client, Employee
 from models.emails import Email
-import xlsxwriter
+from openpyxl import load_workbook
 
 ################## Column Names #######################
 company_name = "CompanyName"
@@ -31,8 +31,19 @@ sales_force_contacts_path =  "SalesForcePseudoData.csv"
 email_records_df = pandas.read_csv(email_records_file_path)
 salesforce_contacts_df = pandas.read_csv(sales_force_contacts_path)
 
-
+#ws = load_workbook(filename = email_records_file_path, read_only=True)
 ################## Reading Files #######################
+
+
+# for row in ws.rows:
+#     print(row)
+#
+#
+#
+
+
+
+
 
 
 def parseSalesForce(df):
